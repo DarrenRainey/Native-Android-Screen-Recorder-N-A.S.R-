@@ -1,0 +1,4 @@
+Simply Run The File "Windows-ADB-Record.bat" And Press CTRL+C When Finsished then press Y to confirm to stop recording
+Then Run Get Files To Copy The Records In To The ScreenRecordings Folder
+
+Note that if you dont run the get files script then the videos will be deleted next time you go to record

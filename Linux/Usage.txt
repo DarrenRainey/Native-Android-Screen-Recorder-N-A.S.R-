@@ -1,0 +1,1 @@
+In Terminal Type Chmod +x * then ./Linux-Setup.sh to install adb after that you can run ./Linux-ADB-Record.sh to record your device press CTRL+C when finished to stop recording
